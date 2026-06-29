@@ -4,7 +4,7 @@ I develop all kinds of software including websites, bots, applications and every
 
 
 🔭 I’m currently working on [ForkGG](https://github.com/ForkGG/fork) and other OpenSource projects  
-📫 How to reach me: [contact@fork.gg](mailto:contact@fork.gg) [@ChristianKern97](https://twitter.com/ChristianKern97)  
+📫 How to reach me: [contact@kern-christian.de](mailto:contact@kern-christian.de)
 😄 Pronouns: he/him  
 ⚡ Fun fact: The moon has moonquakes  
 
