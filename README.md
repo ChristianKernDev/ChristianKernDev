@@ -9,4 +9,4 @@ I develop all kinds of software including websites, bots, applications and every
 ⚡ Fun fact: The moon has moonquakes  
 
 #### Some stats
-<img src="https://github.com/ChristianKern97/github-stats/blob/master/generated/overview.svg"/>
+<img src="https://github.com/ChristianKernDev/github-stats/blob/generated/overview.svg"/>
